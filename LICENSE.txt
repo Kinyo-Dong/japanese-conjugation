@@ -1,0 +1,66 @@
+Japanese Conjugation Self-Study
+Original Components Non-Commercial License 1.0
+
+Copyright © 2026 Kinyo-Dong and the applicable contributors.
+All rights reserved except for the permissions expressly granted below.
+
+1. Scope
+
+This license applies only to the original software code, original interface design,
+and original instructional explanations in this repository for which Kinyo-Dong
+or the applicable contributors hold the necessary rights ("Original Components").
+
+It does not apply to third-party materials, including textbook-derived vocabulary,
+dictionary data, example material, or other content governed by separate rights
+or licenses. See THIRD_PARTY_NOTICES.md.
+
+2. Permission for non-commercial use
+
+Subject to the conditions below, individuals and non-profit educational
+institutions may use, copy, and modify the Original Components solely for:
+
+- personal study;
+- classroom teaching or educational research that is not offered for commercial
+  advantage or monetary compensation; and
+- internal evaluation, preservation, and security review.
+
+All copies or substantial modified versions must retain this copyright notice,
+this license, and the third-party notices.
+
+3. Commercial use prohibited without written authorization
+
+Without prior written authorization from the applicable rights holder, the
+Original Components may not be used for:
+
+- commercial sale or paid distribution;
+- paid training, paid courses, or paid tutoring products;
+- integration into a commercial platform, subscription service, SaaS product,
+  advertising-supported product, or other revenue-generating service; or
+- sublicensing or offering substantially similar derivative products for a fee.
+
+"Commercial use" concerns the Original Components only. It does not change or
+restrict any rights independently granted for third-party material under its own
+license. In particular, JMdict-derived data remains governed by CC BY-SA 4.0.
+
+4. Attribution and notices
+
+Permitted copies and modifications must identify the project, retain the
+copyright and license notices, and clearly describe material modifications.
+
+5. No trademark or endorsement
+
+This license grants no right to use the project name or the name Kinyo-Dong in a
+way that suggests endorsement, sponsorship, or official affiliation.
+
+6. No warranty
+
+THE ORIGINAL COMPONENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, THE RIGHTS HOLDERS SHALL NOT BE LIABLE FOR ANY CLAIM OR DAMAGES ARISING
+FROM USE OF THE ORIGINAL COMPONENTS.
+
+7. Other rights
+
+No rights are granted except those expressly stated here. This is a custom
+non-commercial license and is not an OSI-approved open-source license.
